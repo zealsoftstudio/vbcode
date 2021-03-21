@@ -1,8 +1,11 @@
-#TransparentBlt Visual Basic Source Code
+# TransparentBlt Visual Basic Source Code
 
 Copyright &copy; Hai Li, Zeal SoftStudio 1997
+
 December 15, 1997
+
 All Rights Reserved.
+
 http://www.zealsoftstudio.com
 
 
