@@ -12,8 +12,8 @@ CHINA
 
 ## Examples
 
-*   [AniDemo Source Code](anidemo/) illustrates how to use animated cursors(.ANI) in Visual Basic project.
-*  [TransparentBlt Source Code](TransBlt/) displays a transparent bitmap using TransparentBlt function.
+*   [AniDemo Source Code](https://github.com/zealsoftstudio/vbcode/tree/main/anidemo/) illustrates how to use animated cursors(.ANI) in Visual Basic project.
+*  [TransparentBlt Source Code](https://github.com/zealsoftstudio/vbcode/tree/main/TransBlt/) displays a transparent bitmap using TransparentBlt function.
 
 ## Contact
 
